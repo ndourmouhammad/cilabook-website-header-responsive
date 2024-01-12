@@ -22,11 +22,10 @@ line-height: 5rem; /* 533.333% */
 }
 
 .logo img {
-    width: 3.3125rem;
-    height: 4.375rem;
+    
     flex-shrink: 0;
-    margin-left: 1rem;
-    margin-top: 1.5rem;
+   
+    margin-top: 2rem;
 }
 
 .trois-tirets {
